@@ -1,0 +1,8 @@
+/__pycache__
+/modelDevc/__pycache__
+/polls/__pycache__
+/polls/migrations/__pycache__
+/processors/__pycache__
+/saves/__pycache__
+model.pt
+/saves/general_phrases.pkl
